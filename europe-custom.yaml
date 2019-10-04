@@ -7,6 +7,10 @@ tools:
   - name: mimodd_main
     owner: wolma
     tool_panel_section_label: MiModD
+    
+  - name: medaka
+    owner: thanhlv
+    tool_panel_section_label: nanopore polishing
 
   - name: dwt_var_perfeature
     owner: devteam
